@@ -17,14 +17,10 @@ This repository contains code for speaker identification using audio recordings.
   - `label_encoder.joblib`: Serialized label encoder for mapping speaker labels to class indices.
   - `model.h5`: Saved model file (Keras HDF5 format) for predicting the speaker.
 
-# AI in Signal & Audio
-## Identify Your Own Voice!
-
-This notebook provides a comprehensive approach to speaker identification using audio recordings. It includes exploratory data analysis (EDA), feature extraction, model training, evaluation, and prediction. The notebook uses various libraries, including Keras, librosa, numpy, pandas, seaborn, and scikit-learn.
 
 ## References
 
-The following references were used in the development of this notebook:
+The following references were used in the development of the notebook:
 - [Kaggle Notebook: Audio MNIST with LSTM](https://www.kaggle.com/code/rajanmargaye/audio-mnist-with-lstm-auc-93)
 - [Classification Notebook: Voice Classification Using Deep Learning with Python](https://towardsdatascience.com/voice-classification-using-deep-learning-with-python-6eddb9580381)
 - [YouTube Video: Audio Data Processing in Python](https://www.youtube.com/watch?v=ZqpSb5p1xQo)

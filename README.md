@@ -2,6 +2,7 @@
 
 This repository contains code for speaker identification using audio recordings. It includes a Jupyter Notebook (`myownvoice.ipynb`) for exploratory data analysis (EDA) and model evaluation, as well as a script (`script.py`) for predicting the speaker based on audio input from either a file upload or microphone.
 
+### TODO: Include unrecognizable data (unrec speaker)
 
 ## Contents
 
